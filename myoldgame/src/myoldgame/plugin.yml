@@ -1,3 +1,8 @@
 name: Myoldgame
-version: 1.0.0
+version: 0.0.1
 main: myoldgame.Myoldgame
+commands:
+  tp-above:
+    description:  player wo siteiblock ue ni tobasu.
+    usage: /<command> [distance] (デフォルトは20ブロック)
+    default:  true
