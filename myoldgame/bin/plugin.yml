@@ -1,5 +1,5 @@
-name: Myoldgame
-version: 0.0.1
+name: myoldgame
+version: 0.1.1
 main: myoldgame.Myoldgame
 commands:
   tp-above:

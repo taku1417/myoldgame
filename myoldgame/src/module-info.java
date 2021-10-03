@@ -1,4 +1,0 @@
-module myoldgame {
-	requires spigot;
-
-}
